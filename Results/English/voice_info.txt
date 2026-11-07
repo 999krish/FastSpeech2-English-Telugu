@@ -1,0 +1,3 @@
+checkpoint: checkpoints/best.pth.tar
+main speaker: s101 {'minutes': 3.4073500000000005, 'snr': 45.053555555555555, 'desc': 'Male|45-60|Malayalam|Kerala|Pathanamthitta|Graduate|Full Time|Government'}
+second speaker: s030

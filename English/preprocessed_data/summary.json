@@ -1,0 +1,12 @@
+{
+  "train": {
+    "utterances": 3594,
+    "hours": 4.598460468631898
+  },
+  "val": {
+    "utterances": 771,
+    "hours": 1.023719425547997
+  },
+  "speakers": 114,
+  "skipped": 1
+}

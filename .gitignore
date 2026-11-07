@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+_common/
+*/raw_data/
+*/preprocessed_data/mel/
+*/preprocessed_data/pitch/
+*/preprocessed_data/energy/
+*/preprocessed_data/duration/
+*/preprocessed_data/TextGrid/
+*/preprocessed_data/*.zip
+*/mfa/
+*/results_tmp/
+*/hifigan/generator_universal.pth.tar
+*/checkpoints/best.pth.tar
+*/checkpoints/final.pth.tar
+*/checkpoints/[0-9]*.pth.tar
